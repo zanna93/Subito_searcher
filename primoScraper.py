@@ -16,7 +16,7 @@ parser.add_argument("--annata", dest='annata', help="annata")
 #parser.add_argument("--memory", dest='memory', help="memory space")
 args = parser.parse_args()
 
-BOT_TOKEN = '6939903470:AAH7xuSciHJX3d879xeBL9mvR8cMBwMnpT4'
+BOT_TOKEN = TOKEN
 
 CHAT_ID = 5106577808
 
